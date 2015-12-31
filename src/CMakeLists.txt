@@ -1,0 +1,19 @@
+
+set(EMDLIB_SOURCES
+    ${CMAKE_CURRENT_SOURCE_DIR}/Attribute.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/DataGroup.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/DataSpace.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Dataset.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/FileManager.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Frame.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Group.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Model.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Node.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Util.cpp
+    PARENT_SCOPE
+)
+
+
+
+
+
